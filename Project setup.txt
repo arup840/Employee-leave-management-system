@@ -1,0 +1,33 @@
+Configuration
+
+Install latest edition of xampp
+
+1. Download and Unzip the file 
+2. copy elms folder and put this file inside root directory (xampp - > htdocs)
+3. Database Configuration
+
+Open phpmyadmin
+
+Create Database elms
+Import database elms.sql
+Open Your browser put inside browser “http://localhost/elms/”
+
+Login details for employee
+
+Email id : rabbi@gmail.com
+Passowrd : 1234
+Empid : EMP001 (in case of password recovery)
+
+Email id : arup@gmail.com
+Passowrd : 1234
+Empid : EMP002 (in case of password recovery)
+
+
+For admin login click on the admin login then provide username and password
+
+Email id : admin
+Passowrd : 1234
+
+Other employee details will be found in admin panel under employees
+Email id , Empid will be found from there.
+All Passowrd : 1234 
